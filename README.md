@@ -39,5 +39,4 @@ Here are some of the projects I'm working on:
 - **Discord**: Add me on Discord! My tag is `real7lab`.
 - **Discord Server**: **[Vision | FiveM Bypass](https://discord.gg/visionn)**
 - **Youtube**: [Youtube Channel](https://www.youtube.com/channel/UCq59vylLzR0HPzSZ3Hy6unw)
-- **Twitch**: [Twitch Channel](https://twitch.tv/real7lab)
 - **GitHub**: [Github Account](https://github.com/real7lab)
