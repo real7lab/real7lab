@@ -1,12 +1,7 @@
-# Welcome to My Profile! 👋
+# 💫 About Me:
+Hi there! I'm a `Developer` with a focus on creating robust `FiveM Bypass Software` and advanced `Discord Bots`. <br>My passion lies in developing high-quality, practical solutions that benefit the community and elevate user experiences.
 
-## About Me
-
-Hi there! I'm a `Developer` with a focus on creating robust `FiveM Bypass Software` and advanced `Discord Bots`. 
-My passion lies in developing high-quality, practical solutions that benefit the community and elevate user experiences.
-
-
-## What I Do
+## ❔ What I Do
 
 - **FiveM Bypass Software** 🚗: Specializing in creating sophisticated bypass software for FiveM.
 - **Discord Bots** 🤖: Building advanced and highly customizable Discord bots with a rich set of features tailored for optimal server management, including:
@@ -26,17 +21,12 @@ My passion lies in developing high-quality, practical solutions that benefit the
     - **Admin Commands**: Commands linked to your database or VPS.
     - **Logs**: Track admin interactions for transparency and security.
     - **Much More**: Additional features available upon request.
-
-## Projects
-
+## 🌐 Projects:
 Here are some of the projects I'm working on:
 
 - **[Vision | FiveM Bypass](https://discord.gg/visionn)**
 - **[Vision | Bot Development](https://discord.gg/visionn)**
 
-## Contact
-
-- **Discord**: Add me on Discord! My tag is `real7lab`.
-- **Discord Server**: **[Vision | FiveM Bypass](https://discord.gg/visionn)**
-- **Youtube**: [Youtube Channel](https://www.youtube.com/channel/UCq59vylLzR0HPzSZ3Hy6unw)
-- **GitHub**: [Github Account](https://github.com/real7lab)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/visionn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Lab185) 
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
