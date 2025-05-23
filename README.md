@@ -1,32 +1,31 @@
 # 💫 About Me:
-Hi there! I'm a `Developer` with a focus on creating robust `FiveM Bypass Software` and advanced `Discord Bots`. <br>My passion lies in developing high-quality, practical solutions that benefit the community and elevate user experiences.
+
+Hi there! I'm a `Developer` focused on building robust `FiveM Bypass Software` and powerful `Discord Bots`. I create high-quality, practical tools designed to enhance user experiences and streamline community management.
 
 ## ❔ What I Do
 
-- **FiveM Bypass Software** 🚗: Specializing in creating sophisticated bypass software for FiveM.
-- **Discord Bots** 🤖: Building advanced and highly customizable Discord bots with a rich set of features tailored for optimal server management, including:
+* **FiveM Bypass Software** 🚗: Developing advanced bypass tools tailored for FiveM.
 
-  - **Operational Bot**:
-    - **Welcome**: Greet new members with customizable messages.
-    - **Ticket**: Manage support tickets efficiently.
-    - **Logs**: Capture and log messages, voice interactions, role changes, channel updates, and more.
-    - **Admin & Staff Commands**: Provide various commands for server management.
-    - **Twitch Alerts**: Fully customizable alerts for Twitch events.
-    - **Security Commands**: Tools to enhance server security.
-    - **Anti-Crash System**: Protect against server crashes.
-    - **Anti-Fake Account System [BETA]**: Identify and manage fake accounts.
-    - **Much More**: Additional features available upon request.
+* **FiveM Cheat Software** 🎮: Developing custom cheat solutions for FiveM.
 
-  - **Auth Bot**:
-    - **Admin Commands**: Commands linked to your database or VPS.
-    - **Logs**: Track admin interactions for transparency and security.
-    - **Much More**: Additional features available upon request.
+* **Discord Bots** 🤖: Building advanced and highly customizable Discord bots with a rich set of features, including:
+
+  * **Operational Bot**:
+
+    * Welcome messages, support ticket systems, giveaway system, activity logs, Twitch alerts, admin tools, security features, anti-crash systems and much more.
+  * **Auth Bot**:
+
+    * Admin control panel with database/VPS integration, logs, and more.
+
+* **C++ Utilities & Static Analysis** 🧩: Creating tools like PE file inspectors to extract sections, imports, and function-level insights from executables.
+
 ## 🌐 Projects:
-Here are some of the projects I'm working on:
 
-- **[Vision | FiveM Bypass](https://discord.gg/visionn)**
-- **[Vision | Bot Development](https://discord.gg/visionn)**
+* **[Vision | FiveM Bypass](https://discord.gg/visionn)**
+* **[Vision | Bot Development](https://discord.gg/visionn)**
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/visionn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Lab185) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/visionn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://www.youtube.com/@Lab185)
+
 ## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
