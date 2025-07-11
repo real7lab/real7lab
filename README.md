@@ -17,7 +17,7 @@ Hi there! I'm a `Developer` focused on building robust `FiveM Bypass Software` a
 
     * Admin control panel with database/VPS integration, logs, and more.
 
-* **C++ Utilities & Static Analysis** 🧩: Creating tools like PE file inspectors to extract sections, imports, and function-level insights from executables.
+* **C++ Utilities & Static Analysis** 🧩
 
 ## 🌐 Projects:
 
