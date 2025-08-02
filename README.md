@@ -21,8 +21,10 @@ Hi there! I'm a `Developer` focused on building robust `FiveM Bypass Software` a
 
 ## 🌐 Projects:
 
-* **[Vision | FiveM Bypass](https://discord.gg/visionn)**
-* **[Vision | Bot Development](https://discord.gg/visionn)**
+* **Kangaroo.hh | Software Development**
+* **Vision | FiveM Bypass**
+* **Vision | Bot Development**
+
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/visionn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://www.youtube.com/@Lab185)
 
