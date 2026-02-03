@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Lab
 
-💻 **Software enthusiast and researcher** focused on **systems programming**, **Windows internals**, and **reverse engineering**.  
+**Software enthusiast and researcher** focused on **systems programming**, **Windows internals**, and **reverse engineering**.  
 I enjoy exploring low-level software behavior — from **process execution** and **runtime analysis** to the **forensic traces** left behind by the operating system.
 
 
@@ -28,13 +28,6 @@ In parallel, the project also involved the development of **software related to 
 C++ • Go • Windows APIs
 
 **Status:** Closed / Archived
-
-## 🔬 Reverse Engineering
-
-I am interested in **reverse engineering** as a discipline for:
-- Understanding software behavior and execution flow
-- Static and dynamic binary analysis
-- Research, learning, and interoperability purposes
 
 ## 🧰 Languages & Tools
 
